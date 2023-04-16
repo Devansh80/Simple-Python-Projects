@@ -14,12 +14,12 @@ This repository contains several mini-projects written in Python. Each project d
 
 The following projects are included in this repository:
 
-1.  To-Do List
-2.  Tic-Tac-Toe
-3.  Address Book
-4.  Password Manager
-5.  Hangman
-6.  ATM
+1.  [To-Do List](https://github.com/Devansh80/Simple-Python-Projects/tree/master/Todo-List)
+2.  [Tic-Tac-Toe](https://github.com/Devansh80/Simple-Python-Projects/tree/master/Tic-tac-toe)
+3.  [Address Book](https://github.com/Devansh80/Simple-Python-Projects/tree/master/Address-Book)
+4.  [Password Manager](https://github.com/Devansh80/Simple-Python-Projects/tree/master/Password-Manager)
+5.  [Hangman](https://github.com/Devansh80/Simple-Python-Projects/tree/master/Hangman)
+6.  [ATM](https://github.com/Devansh80/Simple-Python-Projects/tree/master/ATM-Machine)
 
 ## To-Do List
 
