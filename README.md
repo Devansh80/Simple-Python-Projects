@@ -45,6 +45,8 @@ The Hangman project is a command-line implementation of the classic game. The pr
 
 The ATM project is a command-line simulation of an automated teller machine. The project demonstrates the use of object-oriented programming principles in Python, including classes, inheritance, and polymorphism. It also includes additional features such as pin authentication, transaction history, and cash withdrawal limits.
 
-## Conclusion
+## 📌 Conclusion
 
-These projects are designed to be simple yet effective demonstrations of various Python concepts. They can be used as learning tools or as starting points for more complex projects. Feel free to clone this repository and modify the code to suit your needs. Happy coding!
+These projects are designed to be simple yet effective demonstrations of various Python concepts. They can be used as learning tools or as starting points for more complex projects. Feel free to clone this repository and modify the code to suit your needs. 
+
+🌟 Happy coding!
