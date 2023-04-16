@@ -1,4 +1,11 @@
 # Python Mini-Projects
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/pT4hk0FMDu5VT0oRQc/giphy.gif" width="100"/>
+</div>
+
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) 
 
 This repository contains several mini-projects written in Python. Each project demonstrates the use of core Python concepts such as functions, loops, conditionals, and object-oriented programming principles.
